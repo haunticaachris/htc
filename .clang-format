@@ -1,0 +1,8 @@
+---
+BasedOnStyle: LLVM
+ColumnLimit: '120'
+IndentWidth: '1'
+TabWidth: '1'
+UseTab: ForIndentation
+
+...
